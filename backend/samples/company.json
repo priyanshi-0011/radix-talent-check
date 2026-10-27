@@ -1,0 +1,22 @@
+
+{
+  "schema_version": "TEAM-V1",
+  "id": "synthetic-company-1",
+  "company": "Synthetic Practice Co",
+  "source_mode": "synthetic",
+  "notice": "Invented teaching values. Not official company expectations.",
+  "levels": {
+    "COD": 8,
+    "DSA": 8,
+    "OOD": 8,
+    "APTI": 8,
+    "COMM": 8,
+    "AI": 8,
+    "CLOUD": 8,
+    "SQL": 8,
+    "SWE": 8,
+    "SYSD": 8,
+    "NETW": 8,
+    "OS": 8
+  }
+}

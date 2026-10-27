@@ -1,0 +1,32 @@
+
+{
+  "schema_version": "TEAM-V1",
+  "id": "candidate-1",
+  "revision": 1,
+  "name": "Asha Sharma",
+  "email": "asha@example.test",
+  "education": [
+    {
+      "institution": "Example Technical University",
+      "degree": "B.Tech Computer Science",
+      "status": "in_progress"
+    }
+  ],
+  "ratings": {
+    "COD": 4,
+    "DSA": 4,
+    "OOD": 4,
+    "APTI": 4,
+    "COMM": 4,
+    "AI": 4,
+    "CLOUD": 4,
+    "SQL": 4,
+    "SWE": 4,
+    "SYSD": 4,
+    "NETW": 4,
+    "OS": 4
+  },
+  "skills": [],
+  "documents": [],
+  "source_references": []
+}
